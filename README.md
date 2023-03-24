@@ -1,3 +1,3 @@
 # Senofi
 
-DAIR Repo for Senofi BoosterPack
+AWS Cloudformation Repo for Senofi BoosterPack
